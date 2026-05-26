@@ -1,0 +1,7 @@
+1. Buat Planning di promt.txt
+2. copy ke AI
+3. Submit @issue.md sebagai issue baru
+4. ganti AI ke yang lebih murah untuk mengimplementasikan kode
+5. copy url github issue
+6. kerjakan github issue : https://github.com/supriadienv/belajar-vibe-coding/issues/2
+7. Buat PR di github

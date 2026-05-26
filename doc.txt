@@ -1,0 +1,30 @@
+Setup Tool
+- Github : https://github.com/
+- Google Antigravity : https://antigravity.google/
+- Bun : https://bun.com
+- Github CLI : https://cli.github.com/
+
+Setup Project
+- Buat Folder di Komputer
+- Setup Git di Folder Tersebut [git init]
+- Buat Project di Github
+- Setup remote Git di Folder Tersebut ke Project di Github [git remote add origin https://github.com/supriadienv/belajar-vibe-coding.git]
+
+Planning
+- Membuat perencanaan sebelum membuat implementasi kode
+- Hal ini sangat berguna untuk digunakan sebagai panduan implementasi kode, baik oleh programmer, atau AI Model yang lebih murah
+
+Hand-On
+- Membuat planning dalam bentuk Github Issue
+[Buatkan Github issue, inginya hanya Hello World. Gunakan github cli di komputer saya untuk membuat github issue nya]
+
+Scaffolding Project
+- Generate struktur project dari nol
+- Boilerplate code dalam hitungan detik
+
+Hands-on
+Membuat project baru, menggunkan:
+- Bun : https://bun.sh/
+- ElysiaJS : http://elysiajs.com/
+- MySQL : https://www.mysql.com/
+- Drizzle : https://orm.drizzle.xom/

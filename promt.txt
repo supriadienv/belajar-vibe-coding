@@ -1,0 +1,13 @@
+Buatkan issue.md berisi planning untuk membuat ini:
+Buat project baru di folder ini
+menggunakan Bun dan gunakan dependency :
+- ElysiaJS
+- MySQL
+- Drizzle
+Jangan terlalu low level atau ditail
+cukup instruksukan secara high level
+nanti dokumen planning nya akan digunakan oleh programmer atau model Ai yang lebih murah untuk diimplementasikan
+----------------------------------------------------------------
+kerjakan github issue : https://github.com/supriadienv/belajar-vibe-coding/issues/2
+----------------------------------------------------------------
+Buatkan pull request ke branch main di github atas perubahan ini
