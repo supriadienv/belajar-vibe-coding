@@ -5,3 +5,5 @@
 5. copy url github issue
 6. kerjakan github issue : https://github.com/supriadienv/belajar-vibe-coding/issues/2
 7. Buat PR di github
+8. Merged PR
+9. Delete Merge Request

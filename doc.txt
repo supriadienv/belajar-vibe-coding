@@ -28,3 +28,14 @@ Membuat project baru, menggunkan:
 - ElysiaJS : http://elysiajs.com/
 - MySQL : https://www.mysql.com/
 - Drizzle : https://orm.drizzle.xom/
+
+Code Generation
+- Menulis function / class dari deskripsi
+- Implementasi Algoritma kompleks
+
+Hands-on
+- Membuat Tabel User
+- Membuat API untuk user Registration
+- Membuat Tabel Session
+- Membuat API untuk User Login
+- Membuat API untuk get Current User

@@ -3,7 +3,7 @@ import mysql from "mysql2/promise";
 import * as schema from "./schema";
 
 const connection = mysql.createPool({
-  uri: process.env.DATABASE_URL || "mysql://root:password@127.0.0.1:3306/belajar_vibe_coding",
+  uri: process.env.DATABASE_URL || "mysql://root:aishiteru@127.0.0.1:3306/belajar_vibe_coding",
 });
 
 export const db = drizzle(connection, { schema, mode: "default" });
