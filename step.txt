@@ -7,3 +7,15 @@
 7. Buat PR di github
 8. Merged PR
 9. Delete Merge Request
+10. Buat Database
+
+create database menggunakan terminal:
+mysql -u root -paishiteru
+
+CREATE DATABASE belajar_vibe_coding;  
+USE belajar_vibe_coding;  
+
+11. langkah 1 - 4
+12. Buat Branch feature/registrasi-user
+    Masuk ke branch feature/registrasi-user
+    
